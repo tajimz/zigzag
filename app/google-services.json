@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856587813537",
+    "project_id": "zigzag-65211",
+    "storage_bucket": "zigzag-65211.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856587813537:android:684ff75db526ec897ee6e0",
+        "android_client_info": {
+          "package_name": "com.tajimz.zigzag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856587813537-rcf1kbqcvjhkampb1u3fmb523p3q5u51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_k6MUMbPc7tj-VVOGSmq-e3Hh-3CEDUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856587813537-rcf1kbqcvjhkampb1u3fmb523p3q5u51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
